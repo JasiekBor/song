@@ -40,3 +40,18 @@ p {
     padding:10px;
     font-weight:200;
 }
+
+.photo-container {
+    margin:20px;
+    padding:10px;
+}
+
+.photo-container img {
+    border-radius: 3%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    object-fit:cover;
+    opacity:0.8;
+    height:auto;
+}
